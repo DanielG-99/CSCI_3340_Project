@@ -7,6 +7,7 @@ void logInMenu();
 void signUpMenu();
 void menu();
 
+//Need to Add Database
 
 bool verify_password(string password){
     bool is_length = false;
